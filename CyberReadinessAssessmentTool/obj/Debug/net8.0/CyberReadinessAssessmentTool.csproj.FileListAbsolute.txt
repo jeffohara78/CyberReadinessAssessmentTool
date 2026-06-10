@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\bin\Debug\net8.0\CyberReadinessAssessmentTool.exe
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\bin\Debug\net8.0\CyberReadinessAssessmentTool.deps.json
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\bin\Debug\net8.0\CyberReadinessAssessmentTool.runtimeconfig.json
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\bin\Debug\net8.0\CyberReadinessAssessmentTool.dll
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\bin\Debug\net8.0\CyberReadinessAssessmentTool.pdb
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\CyberReadinessAssessmentTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\CyberReadinessAssessmentTool.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\CyberReadinessAssessmentTool.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\CyberReadinessAssessmentTool.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\CyberReadinessAssessmentTool.dll
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\refint\CyberReadinessAssessmentTool.dll
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\CyberReadinessAssessmentTool.pdb
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\CyberReadinessAssessmentTool.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\CyberReadinessAssessmentTool\CyberReadinessAssessmentTool\obj\Debug\net8.0\ref\CyberReadinessAssessmentTool.dll
